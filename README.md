@@ -15,7 +15,7 @@ Here are some ideas to get you started: -->
 
 <img  src="https://github.com/soumyajit4419/soumyajit4419/raw/master/thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://soumyajit.tech/)**
+- 🙋‍♂️ All about me is at **[My Website](https://balaravanan.github.io//)**
 
 - 🔭 I’m currently working on `Something Intresting`.
 
