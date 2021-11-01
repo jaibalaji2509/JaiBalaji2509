@@ -17,7 +17,7 @@ Here are some ideas to get you started: -->
 
 - 🙋‍♂️ All about me is at **[My Website](https://balaravanan.github.io//)**
 
-- 🔭 I’m currently working on `Something Intresting`.
+- 🔭 I’m currently working on `Kpost in Chennai`.
 
 - 🌱 I’m currently learning `MERN Stack`
 
