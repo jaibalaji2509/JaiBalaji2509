@@ -5,7 +5,7 @@
 Here are some ideas to get you started: -->
 
 <div align="center">
-  <img src ="https://raw.githubusercontent.com/soumyajit4419/soumyajit4419/master/banner.png" />
+  <img src ="https://www.elsner.com/wp-content/uploads/2020/08/react.png" />
   
 </div>
 
