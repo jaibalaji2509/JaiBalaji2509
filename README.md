@@ -14,7 +14,6 @@ Here are some ideas to get you started: -->
 
 <img  src="https://github.com/soumyajit4419/soumyajit4419/raw/master/thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://balaravanan.github.io//)**
 
 - 🔭 I’m currently working on `Kpost in Chennai`.
 
@@ -25,6 +24,9 @@ Here are some ideas to get you started: -->
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
 - ⚡ Fun fact: I waste most of my time playing games
+
+
+- 🙋‍♂️ All about me is at **[My Website](https://balaravanan.github.io//)**
 
 ## 🛠️ Technologies and Tools I use:
 <p>
