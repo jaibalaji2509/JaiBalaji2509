@@ -17,8 +17,6 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on `Kpost in Chennai`.
 
-- 🌱 I’m currently learning `Node.js`
-
 - 👯 I’m looking to collaborate for `Dev Projects`
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
