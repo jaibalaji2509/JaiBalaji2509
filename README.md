@@ -16,7 +16,7 @@ Here are some ideas to get you started: -->
 
 
 - 🔭 I’m currently working on `Kpost in Chennai`.
-- 🌱 I’m currently learning Mern
+- 🌱 I’m currently learning Reactjs
 
 - 👯 I’m looking to collaborate for `Dev Projects`
 
