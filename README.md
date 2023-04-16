@@ -25,7 +25,7 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: I waste most of my time playing games
 
 
-- 🙋‍♂️ All about me is at **[My Website](https://balaravanan.github.io//)**
+- 🙋‍♂️ All about me is at **[My Website](https://jaibalaji.netlify.app/)**
 
 ## 🛠️ Technologies and Tools I use:
 <p>
